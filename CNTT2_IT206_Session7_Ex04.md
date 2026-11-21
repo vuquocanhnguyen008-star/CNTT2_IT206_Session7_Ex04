@@ -1,6 +1,5 @@
 # Bài thực hành 4: Dùng Feynman Prompt để học kiến thức lập trình (OOP)
 
-**Họ tên:** ........  **MSSV:** ........  **Ngôn ngữ chọn:** Java  **Mô hình AI dùng:** ........
 
 ## 1. Mục tiêu
 Nhờ AI làm gia sư hỏi mình về 5 khái niệm OOP: Class, Object, Attribute, Method, Constructor. Mình là người giải thích, AI chỉ hỏi và đánh giá, không giảng trước.
