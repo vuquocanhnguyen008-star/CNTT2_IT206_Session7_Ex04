@@ -1,11 +1,5 @@
 # [Bài thực hành 4] Sử dụng Feynman Prompt để học kiến thức lập trình
 
-**Họ tên:** ........................................  **MSSV:** ........................................
-
-**Chủ đề:** OOP trong Java (Class, Object, Attribute, Method, Constructor)
-
----
-
 ## 1. Prompt hoàn chỉnh thiết kế cho AI làm gia sư
 
 ```
